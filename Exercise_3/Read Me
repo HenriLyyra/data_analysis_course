@@ -1,1 +1,3 @@
 Exercise description (pdf), data, and solution code (Lyyra_DAKD_exercise_III.ipynb) for data understanding, supervised machine learning classifier (k-nearest neighbors), and estimation of classifier accuracy.
+
+If .ipynb does not work in Git, paste its url to https://nbviewer.jupyter.org
